@@ -19,7 +19,7 @@ The features were calculated using the calc_features_v2 script.
 ### Performance with all features and performance convergence
 ![classification_auc_and_convergence](https://user-images.githubusercontent.com/6353495/63725176-a213d800-c827-11e9-998c-ceffe28478fd.png)
 
-### Top features and performance with subset of features
+### Top features and performance with a subset of 92 features
 ![classification_feature_importance_and_metrics](https://user-images.githubusercontent.com/6353495/63725282-eb642780-c827-11e9-9787-da249a95476d.png)
 
 
