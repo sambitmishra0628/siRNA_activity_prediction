@@ -9,7 +9,7 @@ The dataset comprises of a set of guide RNA sequences from mouse and human and t
 ![dataset](https://user-images.githubusercontent.com/6353495/63659005-dda59800-c77c-11e9-9494-6d907d832a5b.png)
 
 ## Approach
-![approach](https://user-images.githubusercontent.com/6353495/63659072-35dc9a00-c77d-11e9-966c-b363913a8cd4.png)
+![approach](https://user-images.githubusercontent.com/6353495/63659212-11cd8880-c77e-11e9-92bc-14781a194884.png)
 
 ## List of features
 The features were calculated using the calc_features_v2 script.
