@@ -22,7 +22,10 @@ The performance of the classification model using all features and for a selecte
 ![classification_auc_and_convergence](https://user-images.githubusercontent.com/6353495/63725176-a213d800-c827-11e9-998c-ceffe28478fd.png)
 
 ### Top features and performance with subset of features
+![classification_feature_importance_and_metrics](https://user-images.githubusercontent.com/6353495/63725282-eb642780-c827-11e9-9787-da249a95476d.png)
 
 
 ## Results (regression model)
-The performance of the regression model using all features and for a selected subset of features can be verified with the jupyter notebook session - rf_regression_v2.ipynb.
+### Performance, convergence and important features for regression model
+
+
