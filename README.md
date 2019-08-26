@@ -18,5 +18,11 @@ The features were calculated using the calc_features_v2 script.
 ## Results (classification model)
 The performance of the classification model using all features and for a selected subset of important features can be verified with the jupyter notebook session - rf_classification_v2.ipynb. The session also reports the list of important features for the identification of potent siRNA molecules.
 
+### Performance with all features and performance convergence
+![classification_auc_and_convergence](https://user-images.githubusercontent.com/6353495/63725176-a213d800-c827-11e9-998c-ceffe28478fd.png)
+
+### Top features and performance with subset of features
+
+
 ## Results (regression model)
 The performance of the regression model using all features and for a selected subset of features can be verified with the jupyter notebook session - rf_regression_v2.ipynb.
