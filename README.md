@@ -5,16 +5,16 @@ The set of scripts included in this repository use the dataset of siRNA created 
 The goal is to develop, using this dataset, a regression model that will predict the efficacy of a given siRNA molecule for RNA interference and a classification model that will predict whether a given siRNA molecule will have the desired potency for RNA interference or not.
 
 ## Dataset
-The dataset comprises of a set of guide RNA sequences and their measured activity
+The dataset comprises of a set of guide RNA sequences from mouse and human and their measured activity against targetted mRNA sequences
 ![dataset](https://user-images.githubusercontent.com/6353495/63659005-dda59800-c77c-11e9-9494-6d907d832a5b.png)
 
 ## Approach
+![approach](https://user-images.githubusercontent.com/6353495/63659072-35dc9a00-c77d-11e9-966c-b363913a8cd4.png)
 
-
-
-## List of features included
+## List of features
+The features were calculated using the calc_features_v2 script.
 ![feature_table](https://user-images.githubusercontent.com/6353495/63658806-7f2bea00-c77b-11e9-8ed0-63ceca92e029.png)
 
-The features were calculated using the calc_features_v2 script.
+
 
 
